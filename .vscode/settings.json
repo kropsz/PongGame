@@ -1,0 +1,32 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    
+    
+    "background.enabled": true,
+    "background.loop": false,
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.style": {
+          "content": "''",
+          "pointer-events": "none",
+          "position": "absolute",
+          "z-index": "99999",
+          "width": "30%",
+          "height": "60%",
+          "right": 0,
+          "bottom": 0,
+          "background-position": "right",
+          "background-size": "cover",
+          "background-repeat": "no-repeat",
+          "opacity": 0.5
+      },
+  
+    "background.customImages": [
+      "file:///C:/134-1345844_chibi-mass-production-eva-removebg-preview.png",
+      ],
+
+}
